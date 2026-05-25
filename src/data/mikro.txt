@@ -1,0 +1,1796 @@
+
+Texnologiyani takomillashtirish:
+====
+taklif egri chizig'i pastga va o'ngga;	
+====
+talab egri chizig'i pastga va o'ngga;	
+====
+talab egri chizig'i yuqoriga va o'ngga;	
+====
+taklif egri chizig'i yuqoriga va chapga;
+
++++++
+
+X tovarga talabning pasayishiga nima sabab bo'lishi mumkin?
+====
+iste'molchilar daromadlarini kamaytirish;	
+====
+tovarlar o'rnini bosuvchi X tovarlar narxining oshishi;	
+====
+X mahsulot narxlarining o'sishini kutish;	 
+====
+X mahsulot taklifining pasayishi;
+
++++++
+
+Taklif etilayotgan mahsulot narxi va miqdori o'rtasidagi to'g'ridan-to'g'ri bog'liqlik deyiladi: 
+====
+taklif qonuni;	
+====
+talab qonuni; 	
+====
+Gossen qonuni; 	
+====
+qiymat qonuni;
+
++++++
+
+Agar koeffitsient talabning narx egiluvchanligi koeffitsienti 1 dan kichik bo'lsa, unda
+====
+talab nisbatan elastik emas;	
+====
+talab mutlaqo elastik; 
+====
+talab nisbatan elastik;	
+====
+talab mutlaqo elastik emas;
+
++++++
+
+Agar mahsulot narxining bir foizga pasayishi unga bo'lgan talabning ikki foizga oshishiga olib keladigan bo'lsa, unda bu talab: 
+====
+elastik;
+====
+elastik emas;
+====
+birlik egiluvchanligi;
+====
+to'g'ri javob yo'q;
+
++++++
+
+Hashamatli tovarlarga talab
+====
+odatda elastik;
+====
+odatda elastik emas;	
+====
+odatda mutlaqo elastik emas;	
+====
+odatda bitta elastiklikka ega;
+
++++++
+
+Agar tovarlarning narx noelastik talabi 700 ming so'mdan 800 so'mgacha ko'tarilsa, tushum: 
+====
+o'sadi;	
+====
+qisqartiriladi;	
+====
+o'zgarishsiz qoladi;	
+====
+to'g'ri javob yo'q;
+
++++++
+
+Agar biron bir miqdordagi mahsulot bir xil narxda sotilsa, unda ushbu mahsulotga talab quyidagicha: 
+====
+mutlaqo elastik;	
+====
+mutlaqo elastik emas;	
+====
+nisbatan elastik emas;	
+====
+nisbatan elastik;
+
++++++
+
+Talabning daromad egiluvchanligi qanday qiymatlarni olishi mumkin?                                                                                 
+====
+ijobiy, salbiy va 0 ga teng; 
+====
+faqat salbiy;	
+====
+faqat ijobiy;
+====
+ijobiy – bir – birini to'ldiruvchi va salbiy-o'rnini bosuvchi tovarlar uchun;
+
++++++
+
+Narx va talab miqdori o'rtasidagi teskari bog'liqlik deyiladi: 
+====
+talab qonuni;
+====
+taklif qonuni; 
+====
+qiymat qonuni; 	
+====
+Gossen qonuni;
+
++++++
+
+Talab egri chizig'i bo'ylab harakatlanish quyidagilarni aks ettiradi:
+====
+talab miqdorining o'zgarishi;	
+====
+talabning o'zgarishi;
+====
+taklif qiymatining o'zgarishi;	
+====
+taklifni o'zgartirish;
+
++++++
+Mikroiqtisodiyot qanday muammolarni ko'rib chiqmaydi?	
+====
+davlatlararo munosabatlar muammolari;
+====
+foydali muammolar;
+====
+qiymat muammolari; 
+====
+xarajatlar muammolari;
+
++++++
+
+Ayrim xo'jalik yurituvchi sub'ektlarning xatti-harakatlarini tushuntirishga yondashuvga qarab, mikroiqtisodiyot qanday bo'linadi?
+====
+pozitiv va normativ;
+====
+salbiy va normativ;	
+====
+salbiy va ijobiy;	
+====
+normativ va rejalashtirilgan;
+
++++++
+
+Barcha mikroiqtisodiy tanlovlar quyidagilar doirasida amalga oshiriladi
+====
+ikkita model;
+====
+to'rt model;	
+====
+beshta model;	
+====
+o'nta model;
+
++++++
+
+O'z-o'zidan paydo bo'ladigan tartib modeli doirasida amalga oshiriladigan barcha mikroiqtisodiy tanlovlar quyidagilar bilan tavsiflanadi
+====
+shaxslarning harakatlari va tanlovlari o‘zlarining yaqin atrof-muhit ma’lumotlari va stimullari asosida real sharoitlarga moslashishiga bog‘liq;
+====
+shunday qilib, odamlarning umumiy harakatlari va ularning tanlovlari markaziy hokimiyatning ko'rsatmalari, yo‘riqnomalari va buyruqlariga bo'ysunadi;	
+====
+davlatlarning harakatlari va tanlovlari ¬bevosita atrof-muhitining shakllanishi va stimullariga asoslanib, real sharoitlarga bog'liq;	
+====
+shunday qilib, odamlarning individual harakatlari va ularning tanlovlari markaziy hokimiyatning ko'rsatmalari, yo‘riqnomalari va buyruqlariga bo'ysunadi;
+
++++++
+
+Mikroiqtisodiyotdagi tanlov tizimi uchta masalaga bog‘liq:
+====
+nima? qanday? kim uchun?	
+====
+nima? qayerda? qachon?
+====
+nima? kim? qanday qilib?
+====
+nima? nima uchun? kimga?
+
++++++
+ 
+"Qanday" ni tanlash har doim bog'liq:
+====
+ishlab chiqarish samaradorligi muammosi bilan;
+====
+yangi yaratilgan qiymatni taqsimlash bilan;	
+====
+cheklangan ishlab chiqarish resurslari bilan;
+====
+cheklangan ehtiyojlar bilan; 
+
++++++
+
+"Kim uchun"ni tanlash bilan bog'liq:
+====
+yangi yaratilgan qiymatni taqsimlash bilan;
+====
+ishlab chiqarish samaradorligi muammosi bilan;
+====
+cheklangan ishlab chiqarish ¬resurslari bilan;	
+====
+cheklangan ehtiyojlar bilan;
+
++++++
+
+Talab qonuni quyidagilarni nazarda tutadi 
+====
+tovarlarning narxi pasayganda, rejalashtirilgan xaridlar hajmi oshadi;	
+====
+agar iste'molchilarning daromadlari oshsa, ular odatda ko'proq mahsulot sotibolishadi;	
+====
+talab egri chizig'i odatda ijobiy qiyalikka ega;	
+====
+taklifning talabdan oshib ketishi narxning pasayishiga olib keladi;
+
++++++
+
+Taklif qonuni, agar narxlar ko'tarilsa va boshqa shartlar o'zgarmasa, o'zini namoyon qiladi
+====
+taklif hajmining o'sishida;	
+====
+ta'minotni kamaytirishda;	
+====
+ta'minot o'sishida;	
+====
+ta'minot hajmining pasayishida;
+
++++++
+
+X tovarga talab egri chizig'ining o'zgarishini qanday izohlash mumkin
+====
+iste'molchilarning didi x mahsulotiga qiziqish uyg'otdi va shuning uchun ular uni har qanday narxda avvalgidan ko'ra ko'proq sotib olishni xohlashadi; 
+====
+x tovarining narxi oshdi va natijada iste'molchilar ushbu mahsulotni kamroq sotib olishga qaror qilishdi; 	
+====
+x tovarining taklifi biror sababga ko'ra kamaydi; 	
+====
+x tovarining narxi tushib ketdi, shuning uchun iste'molchilar uni avvalgidan ko'ra ko'proq sotib olishga qaror qilishdi;
+
++++++
+
+X tovarini ishlab chiqarish uchun zarur bo'lgan materiallar narxining oshishi quyidagilarga olib keladi:
+====
+ta'minot egri chizig'ini yuqoriga (yoki chapga) siljitish;	
+====
+talab egri chizig'ining yuqoriga (yoki o'ngga) siljishi;	
+====
+talab egri chizig'i va taklif egri chizig'ining yuqoriga siljishi;	
+====
+ta'minot egri chizig'ining pastga (yoki o'ngga) siljishi;
+
++++++
+
+Qaysi atama odamlarning biror narsa uchun to'lash qobiliyati va istagini aks ettiradi?
+====
+talab;	
+====
+ehtiyoj;	
+====
+ehtiyoj;	
+====
+istak;
+
++++++
+
+Bozor talabi ta'sir qilmaydi:
+====
+resurs narxlariga;	
+====
+o'zaro bog'liq tovarlar narxlariga;	
+====
+iste'molchilar daromadlariga;	
+====
+xaridorlar soniga;
+
++++++
+
+Agar talab pasaysa, talab egri chizig'i siljiydi:
+====
+pastga va chapga;
+====
+soat yo'nalishi bo'yicha aylanish;
+====
+yuqoriga va o'ngga;	 
+====
+soat sohasi farqli o'laroq;
+
++++++
+
+Qaysi omilning o'zgarishi talab egri chizig'ining siljishiga olib kelmaydi?
+====
+tovarlar narxi;	
+====
+daromad miqdori yoki taqsimoti;	
+====
+iste'molchilarning didi va afzalliklari;	
+====
+iste'molchilar soni;
+
++++++
+
+Agar ikkita mahsulot bir-birining o'rnini bosadigan bo'lsa, unda birinchisining narxining oshishi quyidagilarga olib keladi:
+====
+ikkinchi tovarga talabning o'sishi;	
+====
+ikkinchi tovarga talabning pasayishi;	
+====
+birinchi mahsulotga talab hajmining oshishi;	
+====
+ikkinchi tovarga talab miqdorining pasayishi;
+
++++++
+
+Tovarlar va xizmatlar bozori muvozanat holatida, agar:
+====
+taklif hajmi talab hajmiga teng bo’lsa;	
+====
+narx xarajatlar va foyda bilan teng bo’lsa;
+====
+texnologiya darajasi asta-sekin o'zgarib borsa;
+====
+talab taklifga teng bo’lsa;
+
++++++
+
+Agar bozordagi narx muvozanat narxidan yuqori bo'lsa, unda:
+====
+ortiqcha tovarlar paydo bo'ladi;
+====
+tovarlarning etishmasligi mavjud;
+====
+xaridor bozori shakllanmoqda;
+====
+resurslarning narxi pasaymoqda;
+
++++++
+
+Agar mahsulotga taklif va talab oshsa, unda:
+====
+tovarlarning umumiy soni ko'payadi; 
+====
+narx ko'tariladi;
+====
+narx barqaror bo'lib qolmoqda;	
+====
+jamiyat farovonligi oshadi;
+
++++++
+
+Agar tovarlarning narxi talab egri chizig'i va taklif egri chizig'ining kesishish nuqtasidan past bo'lsa, unda quyidagilar paydo bo'ladi:
+====
+tanqislik;	
+====
+ortiqcha;
+====
+muvozanat;
+====
+hech narsa bo'lmaydi;
+
++++++
+
+Qaysi holatda Valras va Marshall modellari bir xil barqaror muvozanat holatiga olib keladi 
+====
+talab egri chizig'i salbiy bo'lsa va taklif egri chizig'i ijobiy qiyalikka ega bo'lsa;
+====
+talab egri chizig'i ham, taklif egri chizig'i ham ijobiy qiyalikka ega bo'lganda;
+====
+talab egri chizig'i ham, taklif egri chizig'i ham salbiy qiyalikka ega bo'lganda;
+====
+hech qachon;
+
++++++
+
+Kir yuvish kukuni narxining 5 foizga pasayishi unga bo'lgan talabning 10 foizga oshishiga olib keldi. Elastiklik ko'rsatkichi quyidagicha bo'ladi:
+====
+2;	
+====
+1,5;	
+====
+1;	
+====
+0,5;
+
++++++
+
+Barcha tovarlar uchun talabning narx egiluvchanligi ko'rsatkichi:
+====
+salbiy qiymat;	
+====
+ijobiy qiymat;	
+====
+qiymati 1 ga teng;	
+====
+qiymati 0 ga teng;
+
++++++
+
+Agar koeffitsient talabning narx egiluvchanligi koeffitsienti 1 dan katta bo'lsa, unda
+====
+talab nisbatan elastik;	
+====
+talab mutlaqo elastik; 
+====
+talab nisbatan elastikemas;	 
+====
+talab mutlaqo elastik emas;
+
++++++
+
+Agar iste'molchilar siyosatchilarni xaridorlarning manfaatlariga mos keladigan qonunni qabul qilishga majbur qilsalar
+====
+hukumat narxning rasmiy maksimal chegarasini belgilaydi, bu narxning "shifti" (yuqori chegarasi) deb nomlanadi;	
+====
+hukumat narxning "jinsi" (pastki chegarasi) deb nomlangan rasmiy minimal narx chegarasini belgilaydi;
+====
+hukumat narxning "jinsi" (pastki chegarasi) deb nomlangan rasmiy maksimal chegarasini belgilaydi; 	
+====
+hukumat narxning rasmiy minimal chegarasini belgilaydi, bu narxning "shifti" (yuqori chegarasi) deb nomlanadi; 
+
++++++
+
+Agar ishlab chiqaruvchilar siyosatchilarni o'z manfaatlariga mos keladigan qonunni qabul qilishga ishontirsalar 
+====
+hukumat narxning "jinsi" (pastki chegarasi) deb nomlangan rasmiy minimal narx chegarasini belgilaydi;
+====
+hukumat narxning rasmiy maksimal chegarasini belgilaydi, bu narxning "shifti" (yuqori chegarasi) deb nomlanadi
+====
+hukumat narxning "jinsi" (pastki chegarasi) deb nomlangan rasmiy maksimal chegarasini belgilaydi; 	
+====
+hukumat narxning rasmiy minimal chegarasini belgilaydi, bu narxning "shifti" (yuqori chegarasi) deb nomlanadi; 
+
++++++
+
+Ushbu bog'liqliklarning qaysi biri talab qonunini hisobga olgan holda talab funktsiyasini tavsiflaydi?
+====
+Q=100-3R;	
+====
+Q \ U003D 3P - 20; 	
+====
+Q \ U003D 3P+20;	
+====
+Q \ U003D 100R - 20;
+
++++++
+
+Ushbu bog'liqliklarning qaysi biri taklif qonunini hisobga olgan holda taklif funktsiyasini tavsiflaydi?
+====
+Q \ U003D 100R - 20;
+====
+Q \ U003D 20-5R;	
+====
+Q\U003D 200-P;	
+====
+Q=100-3R;
+
++++++
+
+Mikroiqtisodiyot-bu qaror qabul qilish fani bo'lib, quyidagilarni o'rganadi: 
+====
+ayrim xo'jalik yurituvchi sub'ektlarning xatti-harakatlari; 
+====
+umuman milliy iqtisodiyotning holati; 	
+====
+umuman olganda jahon iqtisodiyotining holati;	
+====
+pul-kredit munosabatlari;
+
++++++
+
+Mikroiqtisodiyot predmeti bu: 
+====
+cheklangan resurslardan samarali foydalanish bilan bog'liq iqtisodiy munosabatlar, iqtisodiy tanlov sharoitida iqtisodiyotning ayrim sub'ektlari tomonidan qaror qabul qilish;
+====
+global muammolarni hal qilish sohasidagi davlatlar o'rtasidagi iqtisodiy munosabatlar;
+====
+milliy daromadni taqsimlash va aholining turmush darajasi bilan bog'liq iqtisodiy munosabatlar;
+====
+bank tizimlari o'rtasidagi iqtisodiy munosabatlar;
+
++++++
+
+Ushbu mahsulotning taklif egri chizig'idagi mahsulot narxining o'zgarishi quyidagilarni anglatadi
+====
+taklif egri chizig'i bo'ylab harakatlanish;	
+====
+taklif egri chizig'ining chapga siljishi;	
+====
+taklif egri chizig'ini o'ngga siljitish;
+====
+taklifning o'sishi yoki pasayishi;
+
++++++
+
+Boshqa barcha narsalar teng bo'lgan ishlab chiqarish omillari narxining oshishi quyidagilarni anglatadi
+====
+taklifning qisqarishi, ya'ni taklif egri chizig'ining chapga-yuqoriga siljishi;	
+====
+taklifning ko'payishi, ya'ni egri chiziqning o'ngga-pastga siljishi; 
+====
+taklif o'zgarmasligi, ya'ni taklif egri chizig'i bo'ylab o'zgarishlar;	
+====
+faqat taklifning o'sishi;
+
++++++
+
+Taklif egri chizig'i bo'ylab harakatlanish aks ettiradi
+====
+taklif qiymatining o'zgarishi;	
+====
+taklifni o'zgartirish;	
+====
+talabning o'zgarishi;	 
+====
+bozordagi muvozanat
+
++++++
+
+Agar sotuvchilar va xaridorlarning manfaatlari bozorda bir-biriga mos keladigan bo'lsa
+====
+bozor muvozanati.	
+====
+muvozanatsiz holatlar;	
+====
+kamomad;	
+====
+ortiqcha;
+
++++++
+
+Agar xaridorlar ushbu mahsulot (yoki xizmat) uchun bera oladigan maksimal narx sotuvchilar taklif qila oladigan minimal narxdan ancha past bo'lsa, unda
+====
+taklif narxi talab narxidan sezilarli darajada oshib ketishi mumkin va bozorda muvozanat o'rnatilmagan	
+====
+talab narxi taklif narxidan sezilarli darajada oshib ketishi mumkin va bozorda muvozanat o'rnatilmagan	
+====
+taklif narxi talab narxiga teng bo'lishi mumkin va bozorda muvozanat o'rnatiladi	
+====
+bozorda muvozanat o'rnatiladi	
+
++++++
+
+Agar talabning maksimal hajmi taklifning ruxsat etilgan minimal hajmidan past bo'lsa
+====
+bozorda muvozanat o'rnatilmagan;	
+====
+bozorda muvozanat o'rnatiladi;	
+====
+umumiy miqdor muvozanatlanadi;	
+====
+narx muvozanat bo'ladi;
+
++++++
+
+Agar taklif chizig'ining qiyaligi talab chizig'ining qiyaligidan tikroq bo'lsa
+====
+vaqt o'tishi bilan muvozanatdan og'ish kamayadi;
+====
+keyin vaqt o'tishi bilan muvozanatdan og'ish ortadi;	
+====
+bozor muvozanat nuqtasi atrofida tebranadi;	
+====
+to'g'ri javob yo'q;
+
++++++
+
+Agar taklif chizig'ining qiyaligi talab chizig'ining qiyaligidan yumshoqroq bo'lsa
+====
+vaqt o'tishi bilan muvozanatdan og'ish ortadi;	
+====
+keyin vaqt o'tishi bilan muvozanatdan og'ish kamayadi; 
+====
+bozor muvozanat nuqtasi atrofida tebranadi;	
+====
+to'g'ri javob yo'q;
+
++++++
+
+Taklif va talab chiziqlarining bir xil qiyaligi bilan:
+====
+bozor muvozanat nuqtasi atrofida tebranadi;	
+====
+keyin vaqt o'tishi bilan muvozanatdan og'ish ortadi;	
+====
+keyin vaqt o'tishi bilan muvozanatdan og'ish kamayadi;	
+====
+to'g'ri javob yo'q;
+
++++++
+
+Elastiklik quyidagilarni ko'rsatadi:
+====
+bir o'zgaruvchan iqtisodiy qiymat boshqasi bir foizga o'zgarganda necha foizga o'zgaradi; 	
+====
+bir o'zgaruvchan iqtisodiy qiymat boshqasi o'zgarganda qancha o'zgaradi; 	 
+====
+daromad qancha o'zgaradi;	
+====
+narx qancha o'zgaradi;
+
++++++
+
+Kir yuvish kukuni narxining 5 foizga pasayishi unga bo'lgan talabning 5 foizga oshishiga olib keldi. 
+====
+mahsulot bitta egiluvchanlikka ega; 
+====
+mahsulot nisbatan elastik emas;	
+====
+mahsulot mutlaqo elastik;	 
+====
+mahsulot mutlaqo elastik emas;
+
++++++
+
+Sut narxining 5 foizga pasayishi bilan unga bo'lgan talab o'zgarmadi. Sut hisoblanadi
+====
+mutlaqo elastik bo'lmagan mahsulot;
+====
+nisbatan elastik bo'lmagan tovarlar; 	
+====
+nisbatan elastik mahsulot; 	
+====
+mutlaqo elastik mahsulot;
+
++++++
+
+Dori-darmonlarga bo'lgan talab miqdori 20% ga o'zgardi, shu bilan birga dori narxi bir xil bo'lib qoldi. Dori hisoblanadi
+====
+mutlaqo elastik mahsulot;	
+====
+mutlaqo elastik bo'lmagan mahsulot;	
+====
+nisbatan elastik bo'lmagan tovarlar;	
+====
+nisbatan elastik mahsulot; 
+
++++++
+
+Agar talab elastik bo'lsa, narxning o'zgarishi umumiy daromadning o'zgarishiga olib keladi
+====
+qarama-qarshi yo'nalishda ;
+====
+xuddi shu yo'nalishda;	
+====
+o'zgartirmaydi; 	
+====
+oldinga yo'nalishda;
+
++++++
+
+Iste’molchiga ushbu mahsulot uchun ko‘proq yaxshi o‘rinbosarlar taklif etiladi, 
+====
+unga bo'lgan talab elastikroq;
+====
+shunga qaramay, unga bo'lgan talab elastik emas; 
+====
+uning narxi qanchalik ko'p o'zgarsa; 	
+====
+unga talab qanchalik katta bo'lsa;
+
++++++
+
+Mahsulot iste'molchining byudjetida qancha ko'p joy egallasa, hamma narsa teng bo'ladi, 
+====
+unga bo'lgan talabning egiluvchanligi qanchalik yuqori bo'lsa;
+====
+boshqa tovarlarga talabning egiluvchanligi qanchalik yuqori bo'lsa;
+====
+unga bo'lgan talabning egiluvchanligi qanchalik past bo'lsa;	
+====
+shunga qaramay, unga bo'lgan talab elastik emas
+
++++++
+
+Kerakli narsalarga talab
+====
+odatda elastik emas;	
+====
+odatda elastik;
+====
+odatda bitta elastiklikka ega;
+====
+mutlaqo elastik;
+
++++++
+
+Tovarlarga talab odatda, 
+====
+qaror qabul qilish muddati qancha uzoq bo'lsa, elastikroq bo'ladi;
+====
+qaror qabul qilish muddati qancha uzoq bo'lsa, elastik emas	
+====
+qaror qabul qilish muddati qanchalik qisqa bo'lsa, elastikroq bo'ladi	
+====
+elastiklik bilan vaqt davri hech qanday ahamiyatga ega emas
+
++++++
+
+Kesishgan narx egiluvchanligi koeffitsienti aniqlanadi
+====
+so'ralgan mahsulot miqdorining foiz o'zgarishi va boshqa mahsulot narxining foiz o'zgarishi nisbati sifatida; 	 
+====
+so'ralgan mahsulot miqdorining foiz o'zgarishi va ushbu mahsulot narxining foiz o'zgarishi nisbati sifatida; 		 
+====
+so'ralgan mahsulot miqdorining foiz o'zgarishi iste'molchining daromadining foiz o'zgarishiga nisbati sifatida; 	          
+====
+so'ralgan tovar miqdorining foiz o'zgarishining boshqa tovar miqdorining foiz o'zgarishiga nisbati sifatida; 	
+
++++++
+
+Kesishgan elastiklik koeffitsienti ijobiydir
+====
+agar tovarlar bir-birini almashtirsa;
+====
+agar tovarlar bir-birini to'ldirsa;
+====
+agar tovarlar mustaqil bo'lsa;	
+====
+barcha mahsulotlar uchun
+
++++++
+
+Kesishgan elastiklik koeffitsienti salbiy
+====
+agar tovarlar bir-birini to'ldirsa;	 
+====
+agar tovarlar bir-birini almashtirsa;	
+====
+agar tovarlar mustaqil bo'lsa;	
+====
+barcha tovarlar uchun;
+
++++++
+
+Agar ikkita tovar o'rtasidagi kesishgan elastiklik nolga teng bo'lsa, u holda
+====
+tovarlar iste'molda mustaqil ekanligi;	
+====
+tovarlar bir-birini to'ldiradi;	
+====
+agar tovarlar bir-birini almashtirsa;	
+====
+agar tovarlar kam bo'lsa
+
++++++
+
+Iste'molchi profitsiti — 
+====
+xaridor mahsulot uchun to'lashga tayyor bo'lgan narx va sotuvchi tomonidan olingan miqdor o'rtasidagi farq; 	
+====
+xaridor mahsulot uchun to'lashga tayyor bo'lgan narx miqdori va sotuvchi tomonidan olingan miqdor;	
+====
+sotuvchi mahsulot uchun taklif qilishga tayyor bo'lgan narx va sotuvchi tomonidan olingan miqdor o'rtasidagi farq;	
+====
+bozorda sotuvchi va iste'molchi tomonidan olingan umumiy ortiqcha;
+
++++++
+
+Bozor muvozanati jadvalidagi iste'molchilarning ortiqcha miqdori quyidagilarni belgilaydi
+====
+talab egri chizig'i ostida va muvozanat narxidan yuqori bo'lgan shaklning maydoni; 
+====
+talab egri chizig'i ustida joylashgan shaklning maydoni;	
+====
+ta'minot egri chizig'i ustida va muvozanat narxi ostida joylashgan shaklning maydoni;	
+====
+taklif egri chizig'i ostida joylashgan shaklning maydoni;
+
++++++
+
+Arzonroq narx degani
+====
+iste'molchilarning ortiqcha miqdorini oshirish;	
+====
+iste'molchilarning ortiqcha miqdorini kamaytirish;
+====
+ishlab chiqaruvchining ortiqcha miqdorini oshirish;
+====
+iste'molchilarning ortiqcha miqdorini kamaytirish va ishlab chiqaruvchilarning ortiqcha miqdorini ko'paytirish; 
+
++++++
+
+Ishlab chiqaruvchining profitsiti
+====
+sotuvchi o'z xarajatlarini olib tashlagan holda oladigan miqdor;	
+====
+iste'molchining xarajatlarini hisobga olmaganda oladigan miqdori;	
+====
+sotuvchilar ham, xaridorlar ham oladigan miqdor; 
+====
+bu ishlab chiqaruvchining xarajatlari;
+
++++++
+
+Muvozanat bahosi ostida va taklif egri chizig'i ustida joylashgan shaklning maydoni
+====
+bozorda ishlab chiqaruvchining profitsiti;	
+====
+bozorda iste'molchining profitsiti;	 
+====
+bozorning barcha ishtirokchilarining profitsiti;	
+====
+davlatning ortiqcha qismi;
+
++++++
+
+Iste'molchilarning ortiqcha miqdori
+====
+iste'molchilar tomonidan to'langan pul miqdorini olib tashlagan holda xaridorlar uchun tovarlarning qiymati;	
+====
+xaridorlar uchun tovarlarning qiymati va iste'molchilar tomonidan olingan pul miqdori miqdori;	
+====
+sotuvchilar tomonidan etkazib beruvchilarning xarajatlarini olib tashlagan holda olingan pul miqdori;
+====
+sotuvchilar va xaridorlar tomonidan to'langan pul miqdori;
+
++++++
+
+Ishlab chiqaruvchilarning ortiqcha miqdori
+====
+sotuvchilar tomonidan etkazib beruvchilarning xarajatlarini olib tashlagan holda olingan pul miqdori;
+====
+xaridorlar uchun tovarlarning qiymati va iste'molchilar tomonidan olingan pul miqdori miqdori;	 	
+====
+iste'molchilar tomonidan to'langan pul miqdorini olib tashlagan holda xaridorlar uchun tovarlarning qiymati;	
+====
+sotuvchilar va xaridorlar tomonidan to'langan pul miqdori;
+
++++++
+
+Talabning daromad egiluvchanligi koeffitsienti aniqlanadi
+====
+so'ralgan mahsulot miqdorining foiz o'zgarishi iste'molchining daromadining foiz o'zgarishiga nisbati sifatida;	 
+====
+so'ralgan mahsulot miqdorining foiz o'zgarishi va ushbu mahsulot narxining foiz o'zgarishi nisbati sifatida; 		 
+====
+daromadning foiz o'zgarishining tovar miqdorining foiz o'zgarishiga nisbati sifatida; 
+====
+so'ralgan tovar miqdorining foiz o'zgarishining boshqa tovar miqdorining foiz o'zgarishiga nisbati sifatida; 
+
++++++
+
+Agar talabning daromad egiluvchanligi koeffitsienti salbiy qiymatga ega bo'lsa, unda
+====
+iste'mol qilinadigan mahsulot past sifatli;	 
+====
+mahsulot normal hisoblanadi; 		 
+====
+mahsulot yuqori sifatli; 
+====
+mahsulot bir-birining o'rnini bosadi
+
++++++
+
+Agar talabning daromad egiluvchanligi koeffitsienti ijobiy qiymatga ega bo'lsa, unda
+====
+iste'mol qilinadigan mahsulot yuqori sifatli;	 
+====
+mahsulot normal hisoblanadi; 		 
+====
+mahsulot past sifatli; 
+====
+mahsulot bir-birining o'rnini bosadi
+
++++++
+
+Agar talabning daromad egiluvchanligi koeffitsienti nolga teng bo'lsa, unda
+====
+iste'mol qilingan mahsulot normal hisoblanadi;	 
+====
+mahsulot yuqori sifatli; 		 
+====
+mahsulot past sifatli; 
+====
+mahsulot bir-birining o'rnini bosadi; 
+
++++++
+
+Agar iste'mol qilinadigan mahsulot normal deb hisoblansa, unda
+====
+ talabning daromad egiluvchanligi koeffitsienti nolga teng;	 
+====
+talabning daromad egiluvchanligi koeffitsienti ijobiy; 		 
+====
+talabning daromad egiluvchanligi koeffitsienti salbiy; 
+====
+talabning daromad egiluvchanligi koeffitsienti 1 ga teng; 
+
++++++
+
+Agar talabning daromad egiluvchanligi koeffitsientining qiymatlari ijobiy bo'lsa, unda
+====
+iste'mol qilinadigan mahsulot yuqori sifatli;	 
+====
+iste'mol qilinadigan tovarlar normal hisoblanadi; 		 
+====
+iste'mol qilinadigan tovarlar past sifatli; 
+====
+iste'mol qilinadigan tovarlar bir-birining o'rnini bosadi; 
+
++++++
+
+Agar talabning daromad egiluvchanligi koeffitsientining qiymatlari salbiy bo'lsa, unda
+====
+iste'mol qilinadigan tovarlar past sifatli hisoblanadi;	 
+====
+mahsulot yuqori sifatli; 		 
+====
+mahsulot normaldir; 
+====
+mahsulot bir-birining o'rnini bosadi; 
+
++++++
+
+Agar talabning daromad egiluvchanligi koeffitsienti 1 teng bo'lsa, unda
+====
+foizlar bo'yicha talab miqdorining o'zgarishi daromadning foiz o'zgarishiga to'g'ri keladi;	 
+====
+foizlar bo'yicha talab qiymatining o'zgarishi daromadning foiz o'zgarishidan katta;  
+====
+foizlar bo'yicha talab qiymatining o'zgarishi daromadning foiz o'zgarishidan kam; 
+====
+foizlar bo'yicha talab qiymatining o'zgarishi daromadning foiz o'zgarishiga to'g'ri kelmaydi; 
+
++++++
+
+Agar talab mutlaqo elastik bo'lsa, unda talab egri chizig'i:
+====
+gorizontal ko'rinish;	 
+====
+vertikal ko'rinish; 		 
+====
+kamayib borayotgan ko'rinish; 
+====
+turlarning ko'payishi; 
+
++++++
+
+Agar talab mutlaqo elastik bo'lmasa, unda talab egri chizig'i:
+====
+vertikal ko'rinish;	 
+====
+gorizontal ko'rinish; 		 
+====
+kamayib borayotgan ko'rinish; 
+====
+turlarning ko'payishi; 
+
++++++
+
+Xaridor mahsulot uchun 800 ming so'm to'lashga tayyor edi, lekin 750 ming so'mga mahsulot sotib oldi, keyin bu xaridor:	
+====
+50 ming so 'm miqdorida iste' molchi profitsiti mavjud;
+====
+iste'molchilarning ortiqcha qismi yo'q;	
+====
+50 ming so 'm miqdorida salbiy iste' molchi profitsiti mavjud;	
+====
+iste'molchilarning ortiqcha miqdorini aniqlash mumkin emas;
+
++++++
+
+Xaridor mahsulot uchun 800 ming so'm to'lashga tayyor edi, lekin men mahsulotni 850 ming so'mga sotib oldim, keyin bu xaridor:	
+====
+iste'molchi profitsiti yo'q
+====
+50ming so 'm miqdorida iste' molchi profitsiti bo ' ladi;	
+====
+800 ming so 'm miqdorida iste' molchi profitsiti bo ' ladi;	
+====
+iste'molchilarning ortiqcha miqdorini aniqlash mumkin emas;
+
++++++
+
+Sotuvchi tovarni 700 ming so'mga taklif qilishga tayyor edi, lekin tovarni 850 ming so'mga sotdi, keyin bu sotuvchi:
+====
+150 ming so'm ortiqcha
+====
+ortiqcha yo'q;	
+====
+850 ming so ' m ortiqcha;	
+====
+ortiqcha miqdorni aniqlash mumkin emas;
+
++++++
+
+Agar ishlab chiqaruvchi tovarlarni ishlab chiqarish uchun 500 ming so'm xarajat qilgan bo'lsa, lekin tovarlarni 800 ming so'mga sotgan bo'lsa, unda ushbu ishlab chiqaruvchi:	
+====
+ishlab chiqaruvchining 300 ming so'mlik profitsiti bor
+====
+ortiqcha ishlab chiqaruvchiga ega emas;	
+====
+iste'molchining 500 ming so'mlik profitsiti bor;	
+====
+ishlab chiqaruvchining ortiqcha miqdorini aniqlash mumkin emas;
+
++++++
+
+Quyidagilar orasida bitta narsa noto'g'ri. Unga ishora qiling:
+====
+befarqlik egri chizig'idagi barcha nuqtalar pul daromadining bir xil darajasini bildiradi
+====
+byudjet chizig'idagi har bir nuqta ikkita mahsulotning har xil kombinatsiyasini anglatadi
+====
+befarqlik egri chizig'idagi barcha nuqtalar ehtiyojlarni qondirishning bir xil darajasini bildiradi
+====
+befarqlik egri chizig'idagi har bir nuqta ikkita mahsulotning har xil kombinatsiyasini anglatadi
+
++++++
+
+Iste'molchi daromadining o'sishi grafik jihatdan quyidagicha ifodalanadi:
+====
+byudjet chizig'ining o'ngga parallel siljishi
+====
+byudjet chizig'ining qiyaligini o'zgartirish
+====
+byudjet chizig'ining chapga parallel siljishi
+====
+byudjet chizig'ining qiyaligini kamaytirish
+
++++++
+
+Umumiy foydalilik qiymatlarining quyidagi ro'yxatlaridan qaysi biri kamayib borayotgan marginal foydalilik qonunini ko'rsatadi?
+====
+200, 250, 270, 280 
+====
+200, 450, 750, 1100 
+====
+200, 300, 400, 500
+====
+200, 350, 450, 600
+
++++++
+
+Marginal foydalilik qiymatlarining quyidagi ro'yxatlaridan qaysi biri marginal foydalilikning kamayish qonunini ko'rsatadi?
+====
+200, 150, 100, 50
+====
+200, 300, 400, 500 
+====
+200, 250, 270, 280 
+====
+200, 150, 150, 150
+
++++++
+
+Shaxsiy iste'molchi uchun befarqlik egri chizig'ining pozitsiyalari va qiyaligi quyidagicha izohlanadi:
+====
+faqat uning afzalliklari
+====
+faqat sotib olingan tovarlarning narxlari
+====
+uning afzalliklari va daromad hajmi
+====
+sotib olingan tovarlarning narxi va daromad hajmi
+
++++++
+
+Kamayib borayotgan marginal foyda qonuni quyidagilarni anglatadi:
+====
+har bir keyingi tovar birligi tomonidan olib kelinadigan foyda, sotib olingan tovarlar soni ko'payishi bilan kamayadi
+====
+marginal kommunal xizmatlarning hashamatli narxlarga nisbati asosiy mahsulotlarga qaraganda kamroq
+====
+marjinal kommunal xizmatlarning narxlarga nisbati barcha tovarlar uchun bir xil ====
+iste'molchining daromadi oshgani sayin sotib olingan tovarlarning foydaliligi pasayadi
+
++++++
+
+Umumiy foyda marjinal foyda bo'lganda ortadi:
+====
+ortadi yoki kamayadi, lekin ijobiy miqdor
+====
+ortadi
+====
+kamayadi
+====
+bu salbiy miqdor
+
++++++
+
+Befarqlik xaritasida iste'molchilarning muvozanati:
+====
+byudjet chizig'ining qiyaligi unga tegadigan befarqlik egri chizig'ining qiyaligiga teng bo'lgan nuqta
+====
+befarqlik egri chizig'ining eng yuqori qismidagi har qanday nuqta
+====
+byudjet chizig'i va befarqlik egri chizig'ining har qanday kesishishi
+====
+byudjet chizig'ida joylashgan har qanday nuqta
+
++++++
+
+Almashtirish samarasi  bu_____
+====
+naflilik darajasi o‘zgarmaganda, tovarlar narxi o‘zgarishi munosabati bilan iste’mol tovarlar talabi tarkibining o‘zgarishidir
+====
+turli xil tovarlar ishlab chiqarilishi
+====
+past toifali tovarlarni oliy toifali tovarlar bilan almashtirilishi
+====
+tanaffuslar vaqtining  uzunligi
+
++++++
+
+Bozor iqtisodiyotining qaysi subyekti jamiyat a’zolarining ijtimoiy iste’mol xarakteridagi ne’matlar bilan ta’minlaydi?
+====
+davlat
+====
+tadbirkorlik sektori
+====
+uy xo‘jaliklari
+====
+chet ellik jismoniy va huquqiy shaxslar
+
++++++
+
+Amortizatsiya  bu_____
+====
+ishlab chiqarish hajmiga qarab o‘zgamaydi bosqichma-bosqich asosiy kapital qiymatining ma’lum bir qismini ishlab chiqariladigan mahsulot qiymatiga o‘tkazish yo‘li bilan uni qoplash tushuniladi 
+====
+ishlab  chiqarish hajmiga ko‘ra o‘zgaradigan daromad
+====
+ishlab chiqarish hajmiga qarab o‘zgarib turuvchi  xarajatlar
+====
+bir xil naf beruvchi ne’matlar kombinatsiyasi
+
++++++
+
+Barcha ishlab chiqarish omillari o‘zgaradigan davr_____
+====
+uzoq muddatli davr
+====
+qisqa muddatli davr
+====
+1 oy
+====
+15 kun
+
++++++
+
+Befarqlik egri chizig‘i  bu _____
+====
+bir xil naf beruvchi ne’matlar kombinatsiyasi 
+====
+inson ehtiyojini qondira olish xususiyati
+====
+biror ne’matdan qo‘shimcha bir birlik iste’mol qilish natijasida iste’molchi tomonidan olinadigan qo‘shimcha naf
+====
+ishlab  chiqarish hajmiga ko‘ra  o‘zgaradigan daromad
+
++++++
+
+Berilgan narxlarda xaridorlar tomonidan sotib olinishi mumkin bo‘lgan tovarlar miqdori bu _____
+====
+talab
+====
+bozor muvozanati 
+====
+elastiklik 
+====
+taklif
+
++++++
+
+Bir xil naf beruvchi ne’matlar kombinatsiyasi bu _____
+====
+befarqlik egri chizig‘i  
+====
+talab egri chizig‘i
+====
+taklif egri chizig‘i
+====
+budjet chizig‘i
+
++++++
+
+Bir-birini to‘ldiruvchi tovarlarga qaysi tovarlar kiradi?
+====
+benzin, avtomobil
+====
+sariyog‘, margarin
+====
+mol go‘shti, qo‘y go‘shti
+====
+qand, shakar.
+
++++++
+
+Birgalikda, komplekt tarzida iste’mol qilinadigan tovarlar bu _____
+====
+to‘ldiruvchi tovarlar
+====
+o‘rindosh tovarlar 
+====
+noyob tovarlar
+====
+oziq-ovqat tovarlari 
+
++++++
+
+Birinchi bo‘lib daromad o‘zgarishining iste’mol tarkibiga ta’sirini tadqiq qilgan olim kim?
+====
+E.Engel
+====
+R.Pindayk
+====
+R.Kouz
+====
+K.Menger
+
++++++
+
+Boshqa tur mahsulotni ishlab chiqarishdan voz kechib qilinadigan xarajatlar nima?
+====
+muqobil xarajatlar 
+====
+o‘zgaruvchan xarajatlar
+====
+yalpi xarajatlar
+====
+chekli xarajatlar
+
++++++
+
+Bozor iqtisodiyotining qaysi subyekti iqtisodiy resurslarni yetkazib beruvchi va pirovard mahsulotlarning asosiy iste’molchisi hisoblanadi?
+====
+uy xo‘jaliklari
+====
+korxonalar
+====
+davlat tashkilotlari
+====
+davlat muassasalari
+
++++++
+
+Bozor talabiga quyidagi omillardan qaysi biri ta’sir ko‘rsatmaydi?
+====
+sotuvchilar soni
+====
+o‘zaro to‘ldiruvchi tovarlar narxi 
+====
+o‘rinbosar tovarlar narxi 
+====
+istemolchilarning daromadi
+
++++++
+
+Har qanday iqtisodiy tizimlarda “nima”, “qanday” va “kim uchun” degan fundamental savollar mikro va makro darajada hal etiladi. Quyida tuzilgan savollardan qaysi biri mikroiqtisodiyot darajasida hal etiladi:
+====
+nimani, kim uchun va qancha ishlab chiqarish kerak?
+====
+to‘liq bandlik darajasiga qanday qilib erishiladi?
+====
+inflatsiyadan qanday qutulish mumkin?
+====
+iqtisodiy o‘sishni qanday rag‘batlantirish mumkin?
+
++++++
+
+Tovarga bo‘lgan talab va taklif proporsional ravishda oshsa:
+====
+tovar hajmi oshadi, ammo narx o‘zgarmay qoladi
+====
+narx ko‘tariladi
+====
+tovarning umumiy hajmi o‘zgarmay qoladi
+====
+jamiyatning farovonligi pasayadi
+
++++++
+
+Agar tovarning har qanday miqdori bir xil narxda sotilsa, tovarga bo‘lgan talab:
+====
+mutloq elastik hisoblanadi
+====
+mutloq noelastik hisoblanadi
+====
+noelastik hisoblanadi
+====
+elastik hisoblanadi
+
++++++
+
+Noelastik talab deyiladi, agar:
+====
+narx 1% ga ko‘tarilganda unga bo‘lgan talab hajmi 1% dan kam miqdorda o‘zgarsa
+====
+narx 1 % ko‘tarilganda unga bo‘lgan talab hajmi 1 % dan ko‘p miqdorda o‘zgarsa
+====
+narxning har qanday o‘zgarishi umumiy tushumning o‘zgarmasligiga olib kelsa
+====
+narxning 1 % ga ko‘tarilishi talab hajmining oshishiga olib kelmasa
+
++++++
+
+Agar tovarga talab noelastik bo‘lib, narx oshsa, sotuvchining daromadi:
+====
+oshadi
+====
+qisqaradi
+====
+o‘zgarmaydi
+====
+keskin qisqaradi
+
++++++
+
+Talab noelastik bo‘lgan tovarning narxi 7 dollardan 8 dollarga ko‘tarilganda, daromad:
+====
+oshadi
+====
+qisqaradi
+====
+o‘zgarishsiz qoladi
+====
+mutloq noelastik
+
++++++
+
+Agar taklif noelastik bo‘lib, tovarga bo‘lgan talab kamaysa, sotuvchining daromadi:
+====
+kamayadi
+====
+oshadi
+====
+o‘zgarmaydi
+====
+10 %ga oshadi
+
++++++
+
+Izokvanta va izokosta chiziqlari tutashgan nuqta nimani bildiradi?
+====
+maksimal ishlab chiqarish hajmini
+====
+ishlab chiqarilayotgan mahsulot hajmini
+====
+qiymat ko‘rinishidagi mahsulot hajmini
+====
+resurslar hajmi kombinatsiyasini
+
++++++
+
+Iste’molchi uchun befarqlik chizig‘ining joylashuvi va yotiqligi nimani anglatadi?
+====
+faqat uning xoxishini
+====
+uning xohishi va daromadi hajmini  
+====
+faqat tovar mahsulotining narxini
+====
+iste’molchining xohishini, daromadi hajmini va sotib olayotgan tovar narxini
+
++++++
+
+Sotuvdan olinadigan soliq:
+====
+xaridorlar va sotuvchilar birgalikda to‘laydi
+====
+ishlab chiqaruvchilar tomonidan to‘lanadi
+====
+davlat va xaridorlar birgalikda to‘laydi
+====
+yuqoridagilarning barchasi noto‘g‘ri
+
++++++
+
+Iste’molchilarning qimmat narxlarda shu mahsulot o‘rniga uning o‘rinni bosadigan boshqa arzonroq mahsulot xarid etishga moyilliklari:
+====
+almashtirish samarasi bilan izohlanadi
+====
+ishlab chiqarish samarasi bilan izohlanadi
+====
+daromad samarasi bilan izohlanadi
+====
+omillardan oqilona foydalanish samarasi bilan izohlanadi
+
++++++
+
+Iste’molchilarning arzon narxlarda aynan bir mahsulotdan ko‘proq xarid etishga moyilliklari:
+====
+daromad samarasi bilan izohlanadi
+====
+o‘rin bosish samarasi bilan izohlanadi
+====
+ishlab chiqarish samarasi bilan izohlanadi
+====
+omillardan oqilona foydalanish samarasi bilan izohlanadi
+
++++++
+
+“O‘zgaruvchan xarajatlar” (VC) deganda nimani tushunasiz?
+====
+mahsulot ishlab chiqarish hajmi o‘zgarishi bilan o‘zgarib turuvchi xarajatlarni
+====
+kapital mablag‘larini sarflash natijasida o‘zgarib turuvchi xarajatlarni
+====
+umumiy daromad (TR) o‘zgarishi bilan o‘zgarib turuvchi xarajatlarni
+====
+ishlab chiqarish hajmi o‘zgarishiga bog‘liq bo‘lmagan, o‘zgarmaydigan xarajatlarni
+
++++++
+
+“O‘zgarmas (doimiy) xarajat” (FC) deganda nimani tushunasiz?
+====
+ishlab chiqarish hajmi o‘zgarishiga bog‘liq bo‘lmagan, o‘zgarmaydigan xarajatlarni
+====
+mahsulot  ishlab chiqarish hajmi o‘zgarishi bilan o‘zgarib turuvchi xarajatlarni
+====
+umumiy daromad (TR) o‘zgarmasa o‘zgarmaydigan xarajatlarni
+====
+kapital mablag‘larini sarflash natijasida o‘zgarib turuvchi xarajatlarni
+
++++++
+
+Muqobil tanlov:
+====
+resurslarni sarflashning bir nechta variantlari ichidan eng optimal bitta variantni tanlashni anglatadi
+====
+resurslarni sarflashning bir nechta variantlari mavjudligini ko‘rsatadi
+====
+resurslarni sarflashning faqat bitta varianti mavjudligini ko‘rsatadi
+====
+hamma tovarlar bir xil naf keltirishini anglatadi
+
++++++
+
+Ishlab chiqarishning har qanday hajmida firmaning umumiy xarajatlari
+====
+o‘rtacha umumiy xarajatlarning ishlab chiqarish hajmiga ko‘paytmasiga teng
+====
+o‘rtacha o‘zgaruvchan xarajatlarni ishlab chiqarish hajmiga ko‘paytmasiga teng
+====
+o‘rtacha umumiy xarajatlardan o‘rtacha o‘zgaruvchan xarajatlarni ayirmasiga teng
+====
+doimo bir xil
+
++++++
+
+To‘g‘ri bog‘lanish mavjud ... 
+====
+«narx» bilan «taklif» o‘rtasida:
+====
+«narx» bilan «daromad» o‘rtasida
+====
+«narx» bilan «foyda» o‘rtasida
+====
+«narx» bilan «talab» o‘rtasida:
+
++++++
+
+Teskari bog‘lanish mavjud _____
+====
+«narx» bilan «talab» o‘rtasida:
+====
+«narx» bilan «taklif» o‘rtasida:
+====
+«narx» bilan «daromad» o‘rtasida
+====
+«narx» bilan «foyda» o‘rtasida
+
++++++
+
+«Elastiklik» termininig ma’nosi?
+====
+egiluvchan
+====
+kamayuvchi
+====
+ko‘payuvchi
+====
+o‘zgarmas
+
++++++
+
+Talab elastiklik turlari _____
+====
+nuqtasimon, yoysimon, kesishgan
+====
+tarqoq, uzluksiz
+====
+doiraviy, uzlukli
+====
+chiziqli, paralel
+
++++++
+
+Izоkvantа chizig‘ida jоylаshgаn hаr qаndаy nuqtа nimаni bildirаdi?
+=====
+ishlаb chiqаrilishi mumkin bo‘lgan maksimal mаhsulоt hаjmini 
+====
+qiymаt ko‘rinishidаgi mаhsulоt hajmini 
+=====
+xarаjаtlаr summаsini 
+=====
+rеsurslаr hajmi kоmbinаtsiyasini 
+
++++++
+
+“Izоkvаntа” dеgаndа nimаni tushunаsiz?
+=====
+bir хil hаjmdаgi mаhsulоt ishlаb chiqаrish hаjmini tа’minlаydigаn rеsurslаr sаrfining turli kоmbinаtsiyalarini
+====
+mаhsulоt ishlаb chiqаrish uchun zаrur bo‘lgаn mеhnаt rеsurslаrining hаjmini
+=====
+mаhsulоt ishlаb chiqаrish uchun zаrur bo‘lgаn kаpitаl sаrflаri hаjmini
+=====
+mаhsulоt ishlаb chiqаrish uchun zаrur bo‘lgаn оmillаrning mаqsаdgа muvоfiq hаjmini
+
++++++
+
+Bоshqа shаrоitlаr o‘zgаrmаs bo‘lgаn shаrоitdа yеr rеntаsi o‘sib bоrаdi, аgаr:
+=====
+yеrgа bo‘lgаn tаlаb оshsа
+=====
+yеr nаrхi аrzоnlаshsа
+=====
+yеr tаklifi ko‘pаysа
+=====
+yеrgа bo‘lgаn tаlаb qisqаrsа
+
++++++
+
+Qaysi ibora insonlarning biror bir tovarni sotib olish uchun imkoniyati va xohishi borligini anglata-di?
+=====
+talab
+=====
+ehtiyoj
+=====
+zaruriyat
+=====
+xohish
+
++++++
+
+“Umumiy хаrаjаt” (TC) nimаgа tеng?
+=====
+dоimiy vа o‘zgаruvchаn хаrаjаtlаr yig‘indisigа
+=====
+asоsiy vоsitаlаr uchun qilingаn хаrаjаtlаr summаsining yig‘indisigа
+=====
+ishchilаrgа bеrilаdigаn аsоsiy vа qo‘shimchа ish hаqi summаsini yig‘indisigа
+=====
+o‘rtаchа vа chеkli хаrаjаtlаr yig‘indisigа
+
++++++
+
+Qаndаy hоllаrdа o‘rtаchа umumiy xarаjаtlаr miqdоri minimаl qiymаtgа erishаdi?
+=====
+MC=ATC bo‘lsa
+=====
+AFC=VC bo‘lsa 
+=====
+MC=AVC bo‘lsa 
+=====
+AVC=FC bo‘lsa
+
++++++
+
+“O‘zgаruvchаn хаrаjаtlаr” (TVC) dеgаndа nimаni tushunаsiz?
+=====
+mаhsulоt  ishlаb chiqаrish hаjmi o‘zgаrishi bilаn o‘zgаrib turuvchi хаrаjаtlаrni
+=====
+kаpitаl mаblаg‘lаrini sаrflаsh nаtijаsidа o‘zgаrib turuvchi хаrаjаtlаrni
+=====
+umumiy dаrоmаd (TR) o‘zgаrishi bilаn o‘zgаrib turuvchi хаrаjаtlаrni
+=====
+ishlаb chiqаrish hаjmi o‘zgаrishigа bоg‘liq bo‘lmаgаn, o‘zgаrmаydigаn хаrаjаtlаrni
+
++++++
+
+“O‘zgаrmаs (dоimiy) хаrаjаt” (TFC) dеgаndа nimаni tushunаsiz?
+=====
+ishlаb chiqаrish hаjmi o‘zgаrishigа bоg‘liq bo‘lmаgаn, o‘zgаrmаydigаn хаrаjаtlаrni
+=====
+mаhsulоt  ishlаb chiqаrish hаjmi o‘zgаrishi bilаn o‘zgаrib turuvchi хаrаjаtlаrni
+=====
+umumiy dаrоmаd (TR) o‘zgаrmаsа o‘zgаrmаydigаn хаrаjаtlаrni
+=====
+kаpitаl mаblаg‘lаrini sаrflаsh nаtijаsidа o‘zgаrib turuvchi хаrаjаtlаrni
+
++++++
+
+O‘rtacha umumiy xarаjаtlar bu:
+=====
+AFC+AVC
+=====
+ATC+AVC
+=====
+TC/АТС 
+=====
+ATC–AFC 
+
++++++
+
+Muqоbil хаrаjаtlаr:
+=====
+rеsurslаrni tаqsimlаshning muqоbil vаriаntlаri ichidаn eng оptimаl vаriаntni tаnlаmаslik оqibаtidа bоy bеrilgаn imkоniyatni (fоydаni) ifоdаlаydi
+=====
+turli ishlаb chiqаrish хаrаjаtlаrining mаksimаl yo‘l qo‘yilishi mumkin bo‘lgаn chеgаrаlаrini ifоdаlаydi
+=====
+birоr rеsurs o‘rnigа uning o‘rnini bоsuvchi bоshqа rеsursdаn fоydаlаnishni ifоdаlаydi
+=====
+rеsurslаrdаn fоydаlаnishning muqоbil vаriаntlаrini ifоdаlаydi
+
++++++
+
+Ishlab chiqaruvchining umumiy xarаjаtlari qaysi bandda to‘g‘ri keltirilgan?
+=====
+TFC+TVC
+=====
+AVC+ATC 
+=====
+TC–TFC
+=====
+MC+AVC 
+
++++++
+
+Ishlab chiqarishning har qanday hajmida firmaning umumiy xarаjаtlari:
+=====
+o‘rtacha umumiy xarаjаtlarning ishlab chiqarish hajmiga ko‘paytmasiga teng
+=====
+o‘rtacha o‘zgaruvchan xarаjаtlarni ishlab chiqarish hajmi ko‘paytmasiga teng 
+=====
+o‘rtacha umumiy xarаjаtlardan o‘rtacha o‘zgaruvchan xarаjаtlarni ayirmasiga teng
+=====
+o‘rtacha o‘zgarmas xarаjаtlarni ishlab chiqarish hajmi ko‘paytmasiga teng
+
++++++
+
+Firmаning dоimiy xarаjаtlаri – bu:
+=====
+ishlаb chiqаrish hаjmigа bоg‘liq bo‘lmаgаn xarаjаtlаr
+=====
+hаr qаndаy mаhsulоt ishlаb chiqаrish hаjmidа minimаl miqdоrdа sаrflаnаyotgаn xarаjаtlаr 
+=====
+rеsurslаr sоtib оlinаyotgаndа ulаrgа kеtgаn xarаjаtlаr
+=====
+ishchi хоdimlаrgа to‘lаnаyotgаn hаq
+
++++++
+
+Chеkli xarаjаtni hisоblаsh fоrmulаsini bеlgilаng.
+=====
+ΔTC/∆Q
+=====
+∆TC/Q
+=====
+FC /Q 
+=====
+(P*Q)/∆Q 
+
++++++
+
+“Chеkli хаrаjаt” ta’rifi to‘g‘ri keltirilgan qatorni toping.
+=====
+qo‘shimchа mаhsulоt birligini ishlаb chiqаrish uchun sаrflаngаn umumiy хаrаjаtlаrning o‘sgаn qismi
+=====
+qo‘shimchа mаhsulоt birligini ishlаb chiqаrish uchun qo‘shimchа tаrzdа sаrflаngаn аsоsiy ishlаb chiqаrish fоndlаri
+=====
+qo‘shimchа mаhsulоt birligini ishlаb chiqаrish uchun ishchilаrgа bеrilgаn qo‘shimchа ish hаqi
+=====
+mаhsulоt  ishlаb chiqаrish hаjmi o‘zgаrishi bilаn o‘zgаrib turuvchi хаrаjаtlаr
+
++++++
+
+AFC=TFC/Q fоrmulаsi nimаni ifоdаlаydi?
+=====
+o‘rtаchа o‘zgаrmаs хаrаjаtlаrni
+=====
+o‘rtаchа хаrаjаtlаrni
+=====
+o‘rtаchа o‘zgаruvchаn хаrаjаtlаrni
+=====
+chеkli хаrаjаtlаrni
+
++++++
+
+Foydasini maksimallashtirayotgan firma mahsulot ishlab chiqarishning shunday hajmini tanlashi kerakki, bunda:
+=====
+chekli daromad chekli xarаjаtga teng bo‘lishi kerak
+=====
+o‘rtacha tushum o‘rtacha umumiy xarаjаtalarga teng bo‘lishi kerak 
+=====
+o‘rtacha xarаjаtlar minimal bo‘lishi kerak
+=====
+umumiy tushum maksimal bo‘lishi kerak 
+
++++++
+
+Diversifikatsiya bu – …
+=====
+tavakkalchilikni kamaytirishga qaratilgan faoliyat turi
+=====
+qimmatli qog‘ozlar portfeli qiymatini aniqlash jarayoni
+=====
+fond bozori operatorlari o‘rtasidagi hisob-kitob harakati 
+=====
+bir xil turdagi mahsulotlarni ishlab chiqarish
+
++++++
+
+O‘rtаchа xarаjаtlаr chizig‘i tаlаb chizig‘i bilаn kеsishgаndа qаndаy hоlаt yuz bеrаdi?
+=====
+firmа nоrmаl fоydа оlish hоlаtidа bo‘lаdi
+=====
+nоrmаl fоydа nоlgа tеng bo‘lаdi 
+=====
+buхgаltеriya fоydаsi nоlgа tеng bo‘lаdi 
+=====
+fоydа mаksimаl bo‘lаdi
+
++++++
+
+Mаksimаl fоydаni ko‘zlаb hаrаkаt qilаyotgаn firmа qo‘shimchа ishchilаrni yollаydi, аgаr:
+=====
+mеhnаtning chеkli mаhsulоti qiymati ish haqidаn yuqоri bo‘lsа
+=====
+qiymаt ko‘rinishidаgi chеkli mаhsulоtning miqdоri pаsаygаndа 
+=====
+qiymаt ko‘rinishidаgi chеkli mаhsulоtning miqdоri ko‘tаrilgаndа 
+=====
+umumiy tushum umumiy xarаjаtdаn pаst bo‘lsа
+
++++++
+
+Foydasini maksimallashtirayotgan firma qanday hollarda ishlab chiqarish hajmini o‘zgarishsiz qoldirishi mumkin?
+=====
+MR=MC va TR>TC
+=====
+MR>MC va TR>TC
+=====
+MR>MC va TR=TC 
+=====
+MR–MC maksimal holatda 
+
++++++
+
+Firma o‘z yo‘qotishlarini minimallashtiradi agar narx:   
+=====
+o‘rtacha o‘zgaruvchan xarajat minimumidan katta va o‘rtacha umumiy xarajat minimumidan kichik bo‘lsa
+=====
+o‘rtacha xarajatdan yuqori, chekli xarajatdan kam bo‘lsa 
+=====
+o‘rtacha o‘zgaruvchan xarajat minimumidan yuqori, chekli xarajatdan kichik bo‘lsa 
+=====
+o‘rtacha ozgaruvchan xarajat minimumidan kichik bo‘lsa 
+
++++++
+
+Chekli xarаjаtlar:
+=====
+ishlab chiqarish hajmining bir birlikka ko‘paytirish natijasida umumiy xarаjаtalarning oshgan qismi
+=====
+o‘rtacha mahsulot va o‘rtacha o‘zgaruvchan xarаjаtlar ko‘paytmasi
+=====
+umumiy o‘rtacha xarаjаt va ishlab chiqarish hajmi ko‘paytmasi
+=====
+ishlab chiqarish hajmini bir birlikka ko‘paytirish natijasida doimiy xarаjаtlarning qo‘shimcha o‘sishi
+
++++++
+
+Bozor tarkibiga bog‘liq bo‘lmagan holda firma yopiladi, agar:
+=====
+o‘rtacha tushum o‘rtacha o‘zgaruvchan xarаjаtlardan past bo‘lsa
+=====
+o‘rtacha tushum o‘rtacha o‘zgaruvchan xarаjаtlardan yuqori bo‘lsa
+=====
+tushum hajmi umumiy xarаjаtlarni emas, balki faqat o‘zgaruvchan xarаjаtlarni qoplasa
+=====
+tushum o‘zgaruvchan va doimiy xarаjаtlarni qoplaydi, lekin umumiy xarаjаtlarni qoplamasa
+
++++++
+
+Foydasini maksimallashtirayotgan firma mahsulot ishlab chiqarishning shunday hajmini tanlashi kerakki, bunda:
+=====
+chekli tushum chekli xarаjаtga teng bo‘lishi kerak
+=====
+o‘rtacha tushum o‘rtacha o‘zgaruvchan xarаjаtlardan yuqori, lekin o‘rtacha umumiy xarаjаtlardan past bo‘lsa
+=====
+o‘rtacha xarаjаtlar minimal bo‘lishi kerak
+=====
+o‘rtacha tushum o‘rtacha umumiy xarаjаtalarga teng bo‘lishi kerak

@@ -5,7 +5,11 @@ import TelegramBot from 'node-telegram-bot-api';
 
 import { parseQuestions } from './utils/parser.js';
 import { sessions, createSession, getSession, deleteSession, mapPollToSession, pollToSessionMap } from './state/session.js';
+<<<<<<< HEAD
 import { getRandomQuestions, getSequentialQuestions, shuffleOptions, formatResults, buildResultsText, shuffleArray } from './utils/helpers.js';
+=======
+import { getSequentialQuestions, shuffleArray, shuffleOptions, formatResults, buildResultsText } from './utils/helpers.js';
+>>>>>>> 28d36a2 (boshqa guruh uchun)
 
 dotenv.config();
 
@@ -18,19 +22,24 @@ if (!process.env.BOT_TOKEN) {
 
 const bot = new TelegramBot(process.env.BOT_TOKEN, { polling: true });
 
-let questionCache = {};
-const REQUIRED_GROUP_ID = process.env.REQUIRED_GROUP_ID || '-1001234567890'; // Set in .env file
+let questionCache = { mikro: [] };
 const pollAnswerCounts = new Map(); // Track answer counts per poll
 
 function loadQuestions() {
+<<<<<<< HEAD
     const falsafaPath = path.join(__dirname, 'data', 'FALSAFA_uzb.txt');
     const dinshunoslikPath = path.join(__dirname, 'data', 'dinshunoslik.txt');
     const dinshunoslik2Path = path.join(__dirname, 'data', 'dinshunoslik2.txt');
+=======
+    const mikroPath = path.join(__dirname, 'data', 'mikro.txt');
+>>>>>>> 28d36a2 (boshqa guruh uchun)
 
     try {
-        questionCache.falsafa = parseQuestions(falsafaPath);
-        console.log(`Falsafa savollar yuklab olingan: ${questionCache.falsafa.length}`);
+        const questions = parseQuestions(mikroPath);
+        questionCache.mikro = questions;
+        console.log(`Mikro savollar yuklab olingan: ${questions.length}`);
     } catch (err) {
+<<<<<<< HEAD
         console.error('Falsafa faylini o\'qishda xato:', err);
         questionCache.falsafa = [];
     }
@@ -42,6 +51,10 @@ function loadQuestions() {
     } catch (err) {
         console.error('Dinshunoslik faylini o\'qishda xato:', err);
         questionCache.dinshunoslik = [];
+=======
+        console.error('Mikro.txt faylini o\'qishda xato:', err);
+        questionCache.mikro = [];
+>>>>>>> 28d36a2 (boshqa guruh uchun)
     }
 
     try {
@@ -55,28 +68,6 @@ function loadQuestions() {
 }
 
 loadQuestions();
-
-// Helper function to check if user is group member
-async function isGroupMember(chatId, userId) {
-    try {
-        const member = await bot.getChatMember(chatId, userId);
-        return member.status !== 'left' && member.status !== 'kicked';
-    } catch (err) {
-        console.error('getChatMember xatosi:', err);
-        return false;
-    }
-}
-
-// Helper function to check if user is in required group
-async function isInRequiredGroup(userId) {
-    try {
-        const member = await bot.getChatMember(REQUIRED_GROUP_ID, userId);
-        return member.status !== 'left' && member.status !== 'kicked';
-    } catch (err) {
-        console.error('Required group tekshirish xatosi:', err);
-        return false;
-    }
-}
 
 // Helper function to send next question as quiz poll
 async function sendNextQuestion(chatId) {
@@ -93,7 +84,6 @@ async function sendNextQuestion(chatId) {
 
     // Calculate global question number for display
     const globalQuestionNum = session.startIndex + session.currentQuestionIndex + 1;
-    const totalInBatch = session.endIndex - session.startIndex;
 
     const questionText = `[${globalQuestionNum}/${session.endIndex}] ${shuffled.question}`;
 
@@ -178,30 +168,30 @@ async function endQuiz(chatId) {
 // Start command
 bot.onText(/\/start/, async (msg) => {
     const chatId = msg.chat.id;
-    const userId = msg.from.id;
-
-    // Only allow users who are members of the required group
-    const allowed = await isInRequiredGroup(userId);
-    if (!allowed) {
-        await bot.sendMessage(chatId, 'Admin bilan bog\'laning: @ogabek_boymirzayev');
-        return;
-    }
 
     const isBotPrivate = msg.chat.type === 'private';
 
     if (isBotPrivate) {
-        const text = `👋 Salom! Quizga xush kelibsiz!\n\nQuyidagi yo'naltiruvchilardan birini tanlang:`;
+        const text = `👋 Salom! Quizga xush kelibsiz!\n\nQuyidagi tugmani tanlang:`;
         await bot.sendMessage(chatId, text, {
             reply_markup: {
                 inline_keyboard: [
+<<<<<<< HEAD
                     [{ text: '📚 Falsafa', callback_data: 'quiz_falsafa' }],
                     [{ text: '🕌 Dinshunoslik 1', callback_data: 'quiz_dinshunoslik' }],
                     [{ text: '🕌 Dinshunoslik 2', callback_data: 'quiz_dinshunoslik2' }],
+=======
+                    [{ text: '📗 Mikroiqtisodiyot', callback_data: 'quiz_mikro' }],
+>>>>>>> 28d36a2 (boshqa guruh uchun)
                 ],
             },
         });
     } else {
+<<<<<<< HEAD
         const text = `👋 Salom! Quizga xush kelibsiz!\n\n<b>Buyruqlar:</b>\n/falsafa - Falsafa quizi\n/dinshunoslik - Dinshunoslik 1 quizi\n/dinshunoslik2 - Dinshunoslik 2 quizi\n/stop - Quizni to'xtatish\n/getid - Chat ID\n/reload - Savollar faylini qayta yukla`;
+=======
+        const text = `👋 Salom! Quizga xush kelibsiz!\n\n<b>Buyruqlar:</b>\n/mikro - Mikroiqtisodiyot testi\n/stop - Quizni to'xtatish\n/getid - Chat ID\n/reload - Savollar faylini qayta yukla`;
+>>>>>>> 28d36a2 (boshqa guruh uchun)
         await bot.sendMessage(chatId, text, { parse_mode: 'HTML' });
     }
 });
@@ -216,28 +206,12 @@ bot.onText(/\/getid/, async (msg) => {
 bot.onText(/\/reload/, async (msg) => {
     loadQuestions();
     const chatId = msg.chat.id;
-    await bot.sendMessage(chatId, '✅ Savollar qayta yuklab olingan.');
+    await bot.sendMessage(chatId, '✅ Mikro savollar qayta yuklab olingan.');
 });
 
-// /falsafa command
-bot.onText(/\/falsafa/, async (msg) => {
+// /mikro command
+bot.onText(/\/mikro/, async (msg) => {
     const chatId = msg.chat.id;
-    const userId = msg.from.id;
-
-    // Check if user is in required group
-    const isInGroup = await isInRequiredGroup(userId);
-    if (!isInGroup) {
-        await bot.sendMessage(chatId, 'Admin bilan bog\'laning: @ogabek_boymirzayev');
-        return;
-    }
-
-    if (msg.chat.type !== 'private') {
-        const isMember = await isGroupMember(chatId, userId);
-        if (!isMember) {
-            await bot.sendMessage(chatId, 'Admin bilan bog\'laning: @ogabek_boymirzayev');
-            return;
-        }
-    }
 
     if (getSession(chatId)) {
         await bot.sendMessage(chatId, '⚠️ Allaqachon quiz davom etmoqda.');
@@ -249,6 +223,7 @@ bot.onText(/\/falsafa/, async (msg) => {
         reply_markup: {
             inline_keyboard: [
                 [
+<<<<<<< HEAD
                     { text: '10s', callback_data: 'timer_falsafa_10' },
                     { text: '15s', callback_data: 'timer_falsafa_15' },
                     { text: '20s', callback_data: 'timer_falsafa_20' },
@@ -332,6 +307,12 @@ bot.onText(/\/dinshunoslik/, async (msg) => {
                     { text: '15s', callback_data: 'timer_dinshunoslik_15' },
                     { text: '20s', callback_data: 'timer_dinshunoslik_20' },
                     { text: '25s', callback_data: 'timer_dinshunoslik_25' },
+=======
+                    { text: '10s', callback_data: 'timer_mikro_10' },
+                    { text: '15s', callback_data: 'timer_mikro_15' },
+                    { text: '20s', callback_data: 'timer_mikro_20' },
+                    { text: '25s', callback_data: 'timer_mikro_25' },
+>>>>>>> 28d36a2 (boshqa guruh uchun)
                 ],
             ],
         },
@@ -380,8 +361,13 @@ bot.on('callback_query', async (query) => {
 
     try {
         // Handle quiz type selection (private chat)
+<<<<<<< HEAD
         if (data === 'quiz_falsafa' || data === 'quiz_dinshunoslik' || data === 'quiz_dinshunoslik2') {
             const quizType = data === 'quiz_falsafa' ? 'falsafa' : data === 'quiz_dinshunoslik' ? 'dinshunoslik' : 'dinshunoslik2';
+=======
+        if (data === 'quiz_mikro') {
+            const quizType = 'mikro';
+>>>>>>> 28d36a2 (boshqa guruh uchun)
             const text = '⏱️ Vaqtni tanlang:';
             await bot.editMessageText(text, {
                 chat_id: chatId,
@@ -389,10 +375,10 @@ bot.on('callback_query', async (query) => {
                 reply_markup: {
                     inline_keyboard: [
                         [
-                            { text: '10s', callback_data: `timer_${quizType}_10` },
-                            { text: '15s', callback_data: `timer_${quizType}_15` },
-                            { text: '20s', callback_data: `timer_${quizType}_20` },
-                            { text: '25s', callback_data: `timer_${quizType}_25` },
+                            { text: '10s', callback_data: 'timer_mikro_10' },
+                            { text: '15s', callback_data: 'timer_mikro_15' },
+                            { text: '20s', callback_data: 'timer_mikro_20' },
+                            { text: '25s', callback_data: 'timer_mikro_25' },
                         ],
                     ],
                 },
@@ -500,7 +486,11 @@ bot.on('callback_query', async (query) => {
 
                 // Check if there are more questions available
                 if (nextStartIndex >= questionCache[quizType].length) {
+<<<<<<< HEAD
                     await bot.sendMessage(chatId, '✅ Barcha savollar tugadi! Yangi quizni /falsafa, /dinshunoslik yoki /dinshunoslik2 buyrug\'i bilan boshlang.');
+=======
+                    await bot.sendMessage(chatId, '✅ Barcha savollar tugadi! Yangi quizni /mikro buyrug\'i bilan boshlang.');
+>>>>>>> 28d36a2 (boshqa guruh uchun)
                     deleteSession(chatId);
                     await bot.answerCallbackQuery(query.id);
                     return;
@@ -553,20 +543,12 @@ bot.on('poll_answer', async (pollAnswer) => {
 
     // User ismini olish
     let userName = 'Foydalanuvchi';
-    try {
-        const chatMember = await bot.getChatMember(chatId, userId);
-        const user = chatMember.user;
+    if (pollAnswer.user) {
+        const user = pollAnswer.user;
         if (user.first_name || user.last_name) {
             userName = [user.first_name, user.last_name].filter(Boolean).join(' ');
         } else if (user.username) {
             userName = '@' + user.username;
-        } else {
-            userName = 'User ' + userId;
-        }
-    } catch (err) {
-        // Private pollda getChatMember ishlamasligi mumkin
-        if (pollAnswer.user && pollAnswer.user.first_name) {
-            userName = pollAnswer.user.first_name;
         } else {
             userName = 'User ' + userId;
         }

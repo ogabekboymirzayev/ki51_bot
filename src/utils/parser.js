@@ -5,7 +5,7 @@ export function parseQuestions(filePath) {
   const questionBlocks = content.split('+++++').map(q => q.trim()).filter(q => q);
 
   return questionBlocks.map(block => {
-    const parts = block.split('=====').map(p => p.trim()).filter(p => p);
+    const parts = block.split(/={4,}/).map(p => p.trim()).filter(p => p);
     if (parts.length < 2) return null;
 
     const question = parts[0];
